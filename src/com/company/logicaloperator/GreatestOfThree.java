@@ -12,6 +12,7 @@ public class GreatestOfThree {
         System.out.println("Enter third number : ");
         int third = sc.nextInt();
 
+        System.out.println();
 
     }
 }
