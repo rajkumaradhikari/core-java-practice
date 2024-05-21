@@ -13,6 +13,7 @@ public class GreatestOfThree {
         int third = sc.nextInt();
 
         System.out.println();
+        System.out.println();
 
     }
 }
