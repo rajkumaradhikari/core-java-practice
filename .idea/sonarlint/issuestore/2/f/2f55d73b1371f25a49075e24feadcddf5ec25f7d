@@ -1,0 +1,6 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "myFloat".(È­Æ‰
+B
+java:S1481",Remove this unused "myFloat" local variable.(È­Æ‰
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÀêÕùÿÿÿÿÿ8ĞÿÀ´ù1
